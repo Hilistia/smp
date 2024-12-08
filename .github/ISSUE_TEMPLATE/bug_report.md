@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve the server
 title: "[BUG REPORT]"
-labels: bug
+labels: bug, pending
 assignees: mmsheeks
 
 ---
