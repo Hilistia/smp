@@ -1,7 +1,7 @@
 ---
 name: Data or Config Change
 about: Suggest a change to the server configuration
-title: "[CONFIG]"
+title: "[CONF]"
 labels: enhancement, pending
 assignees: mmsheeks
 
