@@ -2,8 +2,8 @@
 name: Feature request
 about: Suggest an idea for the server or modpack
 title: "[FEAT]"
-labels: ''
-assignees: ''
+labels: bug, pending
+assignees: mmsheeks
 
 ---
 
