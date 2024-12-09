@@ -7,21 +7,21 @@ assignees: mmsheeks
 
 ---
 
-**Describe the bug**
+## Describe the bug
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+## To Reproduce
 Steps to reproduce the behavior
 
-**Expected behavior**
+## Expected behavior
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+## Screenshots
 If applicable, add screenshots to help explain your problem.
 
-**System (please complete the following information):**
- - OS: [e.g. Windows 11]
- - Modpack version [e.g. Alpha v0.1.0]
+## System (please update as needed):
+ - OS: Windows 11
+ - Modpack version v0.1.2
 
 **Additional context**
 Add any other context about the problem here.
