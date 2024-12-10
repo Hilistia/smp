@@ -1,0 +1,28 @@
+# ignore everything by default
+*
+
+# track config folder
+!config
+!config/**
+
+# track datapack folder
+!world
+world/**
+!world/datapacks
+!world/datapacks/hilistia
+!world/datapacks/hilistia/**
+
+# track patchouli book
+!patchouli_books
+!patchouli_books/**
+
+# track emotes
+!emotes
+!emots/**
+
+# track git files
+!README.md
+!launch.bat
+!.github
+!.github/**
+!.gitignore
