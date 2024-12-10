@@ -22,7 +22,6 @@ world/**
 
 # track git files
 !README.md
-!launch.bat
 !.github
 !.github/**
 !.gitignore
