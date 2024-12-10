@@ -1,0 +1,19 @@
+{
+    "name": "World & Teleportation",
+    "icon": "minecraft:map",
+    "category": "patchouli:alpha_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The Hilistia world is big. Really big. We've enabled large biomes, and the mods make things even bigger. With Tectonic enabled, the world height is far higher than we're accustomed to. In addition, caves and water systems are more dynamic."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)On Teleporting$()$(br)Given the massive world, we're in for a lot of travel. And yet, I've chosen to not include any forms of free teleportation. The included magic system provides some limited options, but that's about it.$(br2)When the official world launches, major settlements will be granted warp stones. This is the only planned form of long distance teleportation, so you should plan to build near others."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)World Border$()$(br)The alpha server has a world border of 7500 blocks. To keep things running smoothly, I've pre-generated chunks up to 6000 blocks out from our spawn location. You may notice some performance dips if you travel out too far."
+        }
+    ]
+}

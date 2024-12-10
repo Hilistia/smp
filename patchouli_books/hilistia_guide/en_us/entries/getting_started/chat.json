@@ -1,0 +1,15 @@
+{
+    "name": "Server Chat",
+    "icon": "minecraft:map",
+    "category": "patchouli:getting_started_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Hilistia uses a localized chat system, so you'll only see chat messages from players within your immediate area. The range on that is currently set at 150 blocks."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Global Chat$()$(br)If you want to send a message to everyone online, you can use the $(2)/global <message>$() command. This will broadcast your message to all players, instead of just your local area."
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Player Skills",
+    "icon": "minecraft:iron_axe",
+    "category": "patchouli:getting_started_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You may have noticed you spawned with only three hearts. That's because of LevelZ, a progression leveling mod.$(2br)Almost everything about the survival experience on the server is locked behind upgrading your various skills in levelZ. Reseting skills isn't simple, so be sure you want to spend your points before you do."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "All players on the server start with 5 points to allocate as you choose. Once those are set, you can earn more by picking up jobs that earn experience while you play.$(br2)You can open the skills menu from your inventory, or by pressing the skills hot key $(2)$(k:levelz.openskillscreen)$()"
+        }
+    ]
+}

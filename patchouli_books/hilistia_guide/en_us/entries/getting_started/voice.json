@@ -1,0 +1,19 @@
+{
+    "name": "Voice Chat",
+    "icon": "minecraft:map",
+    "category": "patchouli:getting_started_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "To configure your voice settings, hit $(2)$(k:voice_chat)$(). It's recommended that you check your microphone and speaker settings, as well as ensuring that noise cancelation is activated.$(br2)If you have a particularly noisy environment, please use push-to-talk."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Voice Groups$()$(br)You can create and join voice groups from the voice settings menu. Persistent groups can also be created upon request that will remain on the server after restarts and even while empty."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Voice Interactions$()$(br)Be wary of how loud you speak around sculk sensors and the warden. In this world, they can hear you. You can keep yourself from being heard by using the whisper key $(2)$(k:whisper)$()."
+        }
+    ]
+}

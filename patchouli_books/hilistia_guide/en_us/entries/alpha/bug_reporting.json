@@ -1,0 +1,15 @@
+{
+    "name": "Reporting Bugs",
+    "icon": "minecraft:map",
+    "category": "patchouli:alpha_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Bugs can be reported using the Hilistia $(l:https://github.com/Hilistia/smp/issues/new?assignees=mmsheeks&labels=bug&projects=&template=bug_report.md&title=%5BBUG+REPORT%5D)Bug Tracker$(/l). Please fill in as much detail as possible to help us resolve issues quickly."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "Throughout the run of the alpha, bugs will be addressed by priority with rolling releases on an as-needed basis. Ideally we will have no more than one new alpha version per week."
+        }
+    ]
+}

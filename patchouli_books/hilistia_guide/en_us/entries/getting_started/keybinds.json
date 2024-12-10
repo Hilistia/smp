@@ -1,0 +1,15 @@
+{
+    "name": "Keybinds",
+    "icon": "minecraft:command_block",
+    "category": "patchouli:getting_started_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Due to the number of mods installed in our pack, there's quite a few default hotkey collisions between what's installed. The following keybinds have been reset in our distribution, but you're welcome to adjust them as desired."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(li)$(2)$(k:emotecraft.fastchoose)$() Emote Wheel$(li)$(2)$(k:antique_atlas.open)$() Open Atlas$(li)$(2)$(k:levelz.openskillscreen)$() View skill screen$(li)$(2)$(k:voice_chat)$() Voice chat settings$(li)$(2)$(k:mute_microphone)$() Mute$(li)$(2)$(k:disable_voice_chat)$() Disable voice$(li)$(2)$(k:iris.keybind.shaderPackSelection)$() Select Shaders$(li)$(2)$(k:iris.keybind.toggleShaders)$() Toggle Shaders"
+        }
+    ]
+}

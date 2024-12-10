@@ -1,0 +1,11 @@
+{
+    "name": "Updating",
+    "icon": "minecraft:map",
+    "category": "patchouli:alpha_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Modpack updates for the alpha will be distributed as MultiMC ZIP exports. Since updating will require creating a new instance, it's recommended you copy the $(l)options.txt$() file from your previous instance to the new one. This should preserve your keybinds."
+        }
+    ]
+}

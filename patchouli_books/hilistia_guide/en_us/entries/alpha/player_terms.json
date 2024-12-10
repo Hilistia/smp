@@ -1,0 +1,19 @@
+{
+    "name": "Player Terms",
+    "icon": "minecraft:map",
+    "category": "patchouli:alpha_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Some specific boundaries are in place around the closed alpha server specifically. It is expected that all players follow these few rules. Failure to do so will result in a ban."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(br2)$(l)Streaming and Recording$()$(br)Streaming or releasing recorded content from this server is currently forbiden. Players are welcome to record gameplay, but may not release those recordings publicly. Screenshots similarly should not be shared outside of the Hilistia discord."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "$(l)Unstable Version$()$(br)The Legends of Hilistia Alpha is considered unstable. The game may crash, and changes to the modpack may be frequent. Players are required to use the latest official relase of the modpack without alteration."
+        }
+    ]
+}

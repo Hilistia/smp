@@ -1,0 +1,11 @@
+{
+    "name": "Your Atlas",
+    "icon": "minecraft:book",
+    "category": "patchouli:getting_started_category",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "To see where you've been, you can open your Atlas with $(2)$(k:antique_atlas.open)$(). The atlas is your map of the world, and is with you at all times. Use the tools on the side of the book to create markers and manage the map."
+        }
+    ]
+}
