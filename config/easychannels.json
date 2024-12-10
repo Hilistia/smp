@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "command_argument_name": "message",
+  "permissions_required_message": "<red>You don't have the required permissions to use this chat channel.",
+  "local_channel": {
+    "enabled": true,
+    "radius": 150,
+    "dimension_only": true,
+    "format": "<gold>${player}</gold> <gray>>></gray> <white>${message}"
+  },
+  "custom_channels": [
+    {
+      "enabled": true,
+      "literal": "global",
+      "format": "<gray>[GLOBAL]</gray> <gold>${player}</gold> <dark_gray>>></dark_gray> <white>${message}",
+      "radius": -1,
+      "dimension_only": false
+    }
+  ]
+}
