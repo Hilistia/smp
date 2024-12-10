@@ -25,6 +25,14 @@ We use the following labels to help keep things organized.
 | mods        | A suggested change to the list of mods we are running         |
 | enhancement | A suggested improvement to the modpack or server              |
 
+## Component Locations
+This repository is set up to track the entire SMP server folder, while ignoring the majority of content. Because of that, we've got a bit of an odd folder structure. Here's where to find specific parts of the SMP.
+
+- **SMP Configuration** is in the `config/` directory
+- **SMP Datapack** is in the `world/datapacks/hilistia` directory
+- **Player Guide** is in the `patchouli_books/hilistia_guide` directory
+- **Server Emotes** are in the `emotes` directory
+
 ## Branch Strategy
 
 All changes must be made in feature branches and merged via PR with review and approval. Please keep branch names short, ideally hyphen seperated, and starting with the issue number your branch is related to if any.
