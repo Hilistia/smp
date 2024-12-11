@@ -1,6 +1,6 @@
 {
-  "spring": 1.0,
-  "summer": 1.0,
-  "fall": 0.4,
-  "winter": 0.1
-}
+  "Spring": 0.8,
+  "Summer": 1.0,
+  "Fall": 0.4,
+  "Winter": 0.1
+  }
