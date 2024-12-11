@@ -1,4 +1,5 @@
 {
+    "replace": true,
     "values": [
         "#enchanted:mutandis_plants",
         "#enchanted:crops",
