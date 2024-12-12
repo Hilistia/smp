@@ -1,0 +1,13 @@
+{
+  "inventoryRecipeBookX": 0,
+  "inventoryRecipeBookY": 0,
+  "printErrorMessage": false,
+  "printRecipesAndAdvancements": false,
+  "removeAllVanillaAdvancements": false,
+  "removeAllAdvancements": false,
+  "recipeList": [
+    "comforts:rope_and_nail_shapeless"
+  ],
+  "advancementList": [],
+  "itemList": []
+}
