@@ -6,7 +6,18 @@
   "removeAllVanillaAdvancements": false,
   "removeAllAdvancements": false,
   "recipeList": [
-    "comforts:rope_and_nail_shapeless"
+    "comforts:rope_and_nail_shapeless",
+    "naturalist:cooked_egg",
+    "naturalist:cooked_egg_from_smoking",
+    "emi:create/fan_smoking/naturalist/naturalist:cooked_egg_from_smoking",
+    "naturalist:cooked_egg_from_campfire_cooking",
+    "sophisticatedbackpacks:inception_upgrade",
+    "farmersdelight:wheat_dough_from_water",
+    "emi:create/shapeless/farmersdelight/wheat_dough_from_water",
+    "farmersdelight:wheat_dough_from_eggs",
+    "emi:create/shapeless/farmersdelight/wheat_dough_from_eggs",
+    "createfood:create/splashing/wheat_dough_from_splashing_water_farmersdelight",
+    "createfood:create/mixing/wheat_dough_from_mixing_water_farmersdelight"
   ],
   "advancementList": [],
   "itemList": []
