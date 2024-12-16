@@ -5,7 +5,7 @@
   "nicknameFormat": "${nickname}",
   "maxLength": 48,
   "changeDisplayName": true,
-  "changePlayerListName": true,
+  "changePlayerListName": false,
   "allowLegacyFormatting": false,
   "nicknameChangedMessage": "Your nickname has been changed to ${nickname}",
   "nicknameResetMessage": "Your nickname has been removed!",
