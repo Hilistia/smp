@@ -6,7 +6,7 @@
   "hoverText": "<dark_aqua>Receivers: <dark_gray>[${receivers}]</dark_gray>",
   "receiver": "<green>${player}</green>",
   "messages": {
-    "switchedChannels": "<dark_aqua>Chat Mode -> <green>${channel}",
+    "switchedChannels": "<dark_aqua>Channel -> <green>${channel}",
     "switchedSocialSpy": "<dark_aqua>Spy Mode -> <green>${mode}",
     "ignored": "<red>${player} is ignoring you.",
     "ignoredPlayer": "<dark_aqua>You are now ignoring <green>${player}",
