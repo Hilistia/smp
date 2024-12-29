@@ -1,6 +1,6 @@
 {
   "___comment": "AfkPlus-1.20.1-1.7.0 Config",
-  "config_date": "Sat, 28 Dec 2024 15:04:43 -0500",
+  "config_date": "Sun, 29 Dec 2024 13:02:31 -0600",
   "afk_plus": {
     "enableAfkCommand": true,
     "enableNoAfkCommand": true,
@@ -45,7 +45,7 @@
     "updateInterval": 15
   },
   "place_holder": {
-    "afkPlaceholder": "<i><gray>(afk) <r>",
+    "afkPlaceholder": "<i> <gray>(afk)<r>",
     "afkPlusNamePlaceholderAfk": "<i><gray>(afk) %player:displayname_unformatted%<r>",
     "afkPlusNamePlaceholder": "%player:displayname%",
     "afkDurationPlaceholderFormatting": "<green>",
