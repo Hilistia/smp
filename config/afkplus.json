@@ -1,6 +1,6 @@
 {
   "___comment": "AfkPlus-1.20.1-1.7.0 Config",
-  "config_date": "Sat, 28 Dec 2024 15:04:43 -0500",
+  "config_date": "Sun, 29 Dec 2024 13:02:31 -0600",
   "afk_plus": {
     "enableAfkCommand": true,
     "enableNoAfkCommand": true,
@@ -12,17 +12,17 @@
     "debugMode": false
   },
   "packet": {
-    "timeoutSeconds": 240,
-    "resetOnMovement": false,
+    "timeoutSeconds": 1200,
+    "resetOnMovement": true,
     "resetOnLook": false,
     "ignoreAttacks": false,
     "bypassSleepCount": true,
     "bypassInsomnia": true,
-    "afkTimeoutString": "<i><gray>timeout<r>",
+    "afkTimeoutString": "<i><gray>poof!<r>",
     "afkTimeoutIgnoreAttack": "<i><gray>only swinging their sword<r>"
   },
   "disable_damage": {
-    "disableDamage": true,
+    "disableDamage": false,
     "disableDamageCooldown": 15,
     "whenDamageDisabled": "%player:displayname% <yellow>is marked as <red>Invulnerable.<r>",
     "whenDamageEnabled": "%player:displayname% <yellow>is no longer <red>Invulnerable.<r>"
@@ -45,8 +45,8 @@
     "updateInterval": 15
   },
   "place_holder": {
-    "afkPlaceholder": "<i><gray>[AFK%afkplus:invulnerable%]<r>",
-    "afkPlusNamePlaceholderAfk": "<i><gray>[AFK%afkplus:invulnerable%] %player:displayname_unformatted%<r>",
+    "afkPlaceholder": "<i> <gray>(afk)<r>",
+    "afkPlusNamePlaceholderAfk": "<i><gray>(afk) %player:displayname_unformatted%<r>",
     "afkPlusNamePlaceholder": "%player:displayname%",
     "afkDurationPlaceholderFormatting": "<green>",
     "afkTimePlaceholderFormatting": "<green>",
@@ -63,9 +63,9 @@
   },
   "message": {
     "enableMessages": true,
-    "whenAfk": "%player:displayname% <yellow>is now AFK<r>",
-    "whenAfkPunctuation": "<yellow>,<r> ",
-    "whenReturn": "%player:displayname% <yellow>is no longer AFK<r>",
+    "whenAfk": "%player:displayname% <gray>is now AFK<r>",
+    "whenAfkPunctuation": "<gray>,<r> ",
+    "whenReturn": "%player:displayname% <gray>is no longer AFK<r>",
     "whenReturnDurationPrefix": " <gray>(Gone for: <green>",
     "whenReturnDurationSuffix": "<gray>)",
     "defaultReason": "<gray>poof!<r>",
