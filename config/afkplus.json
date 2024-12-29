@@ -1,6 +1,6 @@
 {
   "___comment": "AfkPlus-1.20.1-1.7.0 Config",
-  "config_date": "Fri, 27 Dec 2024 18:38:32 -0600",
+  "config_date": "Sat, 28 Dec 2024 15:04:43 -0500",
   "afk_plus": {
     "enableAfkCommand": true,
     "enableNoAfkCommand": true,
