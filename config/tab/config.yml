@@ -2,7 +2,7 @@
 header-footer:
   enabled: true
   header:
-    - "&3&lHilistia Alpha &7v0.4.0"
+    - "&3&lHilistia Alpha &7v0.5.0"
     - "                            "
   footer:
   disable-condition: '%world%=disabledworld'
